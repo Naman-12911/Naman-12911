@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Naman-12911/Naman-12911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Myself **Naman Garg** I am a software developer✨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am worked ad freelancer in python django and react.js with 2 year of freelancing experince.
+
+- 🔭 I’m currently working on Plagrism checker tool for a agency.
+- 🌱 I’m currently learning new technology like react.js
+- 👯 I’m looking to collaborate to any software or any website that is Build in python Django.
+- 📫 You can reach me with my email address : namangarg820@gmail.com
+- And you can reach me with my linkdin : https://www.linkedin.com/in/naman-garg-935658201/
+- ⚡ My biggest goal for this year is to contribute in open source and build contact and earn money. 
+
